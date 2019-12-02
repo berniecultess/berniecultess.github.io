@@ -1,0 +1,78 @@
+[
+    {
+        "tech": "HTML",
+        "rate": 100
+    },
+    {
+        "tech": "CSS",
+        "rate": 100
+    },
+    {
+        "tech": "Adobe Photoshop",
+        "rate": 90
+    },
+    {
+        "tech": "Agile Methodology",
+        "rate": 90
+    },
+    {
+        "tech": "Adobe Illustrator",
+        "rate": 90
+    },
+    {
+        "tech": "GIT",
+        "rate": 90
+    },
+    {
+        "tech": "SCSS",
+        "rate": 85
+    },
+    {
+        "tech": "Visual Studio Code",
+        "rate": 85
+    },
+    {
+        "tech": "Jira",
+        "rate": 85
+    },
+    {
+        "tech": "Sublime Text",
+        "rate": 80
+    },
+    {
+        "tech": "Eclipse",
+        "rate": 70
+    },
+    {
+        "tech": "WordPress",
+        "rate": 70
+    },
+    {
+        "tech": "Adobe Animate (Flash)",
+        "rate": 60
+    },
+    {
+        "tech": "JavaScript",
+        "rate": 50
+    },
+    {
+        "tech": "Material-UI",
+        "rate": 30
+    },
+    {
+        "tech": "React",
+        "rate": 40
+    },
+    {
+        "tech": "Sketch",
+        "rate": 30
+    },
+    {
+        "tech": "Zeplin",
+        "rate": 30
+    },
+    {
+        "tech": "MySQL",
+        "rate": 20
+    }
+]

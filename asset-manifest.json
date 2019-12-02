@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.de293480.chunk.css",
-    "main.js": "/static/js/main.354b1323.chunk.js",
-    "main.js.map": "/static/js/main.354b1323.chunk.js.map",
+    "main.css": "/static/css/main.f334250a.chunk.css",
+    "main.js": "/static/js/main.47165f84.chunk.js",
+    "main.js.map": "/static/js/main.47165f84.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a3630d87.js",
     "runtime-main.js.map": "/static/js/runtime-main.a3630d87.js.map",
     "static/js/2.d106909f.chunk.js": "/static/js/2.d106909f.chunk.js",
     "static/js/2.d106909f.chunk.js.map": "/static/js/2.d106909f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.2e06b8a687b0efb0d6f5919f35ad2079.js": "/precache-manifest.2e06b8a687b0efb0d6f5919f35ad2079.js",
+    "precache-manifest.2953468b747342a69da1f067019592c0.js": "/precache-manifest.2953468b747342a69da1f067019592c0.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.de293480.chunk.css.map": "/static/css/main.de293480.chunk.css.map",
+    "static/css/main.f334250a.chunk.css.map": "/static/css/main.f334250a.chunk.css.map",
     "static/media/Bernard-Cultess-Resume-2019.pdf": "/static/media/Bernard-Cultess-Resume-2019.3c00e0f8.pdf",
     "static/media/bg-1.png": "/static/media/bg-1.e5fa07bb.png",
     "static/media/bg-2.png": "/static/media/bg-2.2e24f873.png",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.a3630d87.js",
     "static/js/2.d106909f.chunk.js",
-    "static/css/main.de293480.chunk.css",
-    "static/js/main.354b1323.chunk.js"
+    "static/css/main.f334250a.chunk.css",
+    "static/js/main.47165f84.chunk.js"
   ]
 }
