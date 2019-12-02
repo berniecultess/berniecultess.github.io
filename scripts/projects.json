@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "bgImg": "img/job_img_02.png",
+        "url": "carmdopmedia.com",
+        "title": "CD Media"
+    },
+    {
+        "id": 2,
+        "bgImg": "img/job_img_01.png",
+        "url": "www.thecelestinbrothers.com",
+        "title": "Celestin Brothers"
+    },
+    {
+        "id": 3,
+        "bgImg": "img/job_img_03.png",
+        "url": "www.susanoliveras.com",
+        "title": "Susan Oliveras"
+    }
+]
